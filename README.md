@@ -75,7 +75,7 @@
 
 <div align="center">
   
-[![React 3D Metaverse](https://img.shields.io/badge/📡-Hop_On_The_Youmeverse_Project-20F7A3?style=for-the-badge&logo=matrix&logoColor=white)](https://youmeverse.gdaafrica.com)
+[![React 3D Metaverse](https://img.shields.io/badge/🫆-Hop_On_The_Youmeverse_Project-20F7A3?style=for-the-badge)](https://youmeverse.gdaafrica.com)
 [![Digital Red Pill](https://img.shields.io/badge/💊-Take_Red_Pill-FF0000?style=for-the-badge)](mailto:halton@gdaafrica.com)
 
 </div>
