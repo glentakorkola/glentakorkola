@@ -61,9 +61,9 @@
 
 <div align="center">
   
-[![React 3D Metaverse](https://img.shields.io/badge/🟢-React_3D_Matrix-20F7A3?style=for-the-badge&logo=react&logoColor=black)](https://)
+[![React 3D Metaverse](https://img.shields.io/badge/🟢-React_3D_Metaverse-20F7A3?style=for-the-badge&logo=react&logoColor=black)](https://)
 [![AI Neural Network](https://img.shields.io/badge/🤖-AI_Neural_Network-20F7A3?style=for-the-badge&logo=python&logoColor=white)](https://)
-[![Transaction Engine](https://img.shields.io/badge/₿-Crypto_Dashboard-20F7A3?style=for-the-badge&logo=bitcoin&logoColor=white)](https://)
+[![Transaction Engine](https://img.shields.io/badge/₿-Transaction_Engine-20F7A3?style=for-the-badge&logo=bitcoin&logoColor=white)](https://)
 [![Mobile Matrix](https://img.shields.io/badge/📱-Mobile_Matrix-20F7A3?style=for-the-badge&logo=react&logoColor=black)](https://)
 
 </div>
